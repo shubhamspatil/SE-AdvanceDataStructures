@@ -1,11 +1,5 @@
 
-/*
 
-Name : Swaraj Pawar
-Class : SE-B2
-Roll. No. : 3152096
-
-*/
 
 
 #include<iostream>
