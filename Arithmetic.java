@@ -1,11 +1,11 @@
 package arith;
-import arith.siddhi;
+import arith.sid;
 
 import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-public  class Arithmetic implements siddhi.siddhi1
+public  class Arithmetic implements sid1.sid1
 {
 	int op1,op2,result;
  	
