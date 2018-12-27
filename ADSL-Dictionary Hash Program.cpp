@@ -7,8 +7,7 @@
 		Data: Set of (key, value) pairs, Keys are mapped to values,
 		Keys must be comparable, Keys must be unique
 		Standard Operations: Insert(key, value), Find(key), Delete(key)
-	Author: Amogh Kalyanshetti
-	Roll No: 3162522
+	
  */
 #include<iostream>
 #define MAX 20
