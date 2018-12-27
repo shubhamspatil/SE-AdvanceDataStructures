@@ -2,8 +2,7 @@
  *      Problem Statement: Consider telephone book db of young clients .
  *      Make use of hash table to quickly look up client's telephone no
  
-  	Author: Amogh Kalyanshetti
-  	Roll No: 3162522
+  	
  */
 #include<iostream>
 #define MAX 20
