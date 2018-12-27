@@ -1,9 +1,6 @@
 /*
  * stud.cpp
  *
-Name : Swaraj Pawar
-Div : SE-B2
-Roll no. : 3152096
 
 */
 
