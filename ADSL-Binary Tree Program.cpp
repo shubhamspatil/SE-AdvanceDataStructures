@@ -3,8 +3,7 @@
  * another [operator=] and then erase all nodes
  * in a binary tree.
  *
- * Author: Amogh Kalyanshetti
- * Roll No 3162522
+ 
  */
 #include<iostream>
 using namespace std;
