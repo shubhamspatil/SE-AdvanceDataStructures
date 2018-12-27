@@ -7,9 +7,7 @@
  * 	connects all your offices with minimal total
 	costs.Solve the problem by suggesting appropriate data structure
  *  
- *  	Author: Amogh Kalyanshetti
- 	Roll No: 3162522
- *
+ *  	
  */
 
 
