@@ -11,10 +11,7 @@
 	representation of the graph or use adjacency matrix representation of the
 	graph.Justify the storage representation used.
 
- *  Created on: Feb 15, 2017
- *      Author: Amogh Kalyanshetti
- *		Roll No 3162522
- *		SE COMP B3
+ * 
  */
 #include<iostream>
 using namespace std;
