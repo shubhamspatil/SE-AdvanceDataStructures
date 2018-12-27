@@ -8,8 +8,7 @@ used to loop over
 collection
 e. Intersection of two sets, f. Union of two sets, g. Difference between two
 sets, h. Subset
- *      Author: Amogh Kalyanshetti
- *      Roll No:3162522
+ *    
  */
 #include<iostream>
 using namespace std;
