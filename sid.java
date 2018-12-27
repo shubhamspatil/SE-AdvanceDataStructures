@@ -4,16 +4,15 @@ Problem statement:-
 		      In this assignment design and use of customized interfaces and packages for a
 		       specific application are expected 
                       
-                      Author:-Siddhi Hagawane.
-                      Roll No:3172514
+                     
 */
 
 
 package arith;
 
-public class siddhi
+public class sid
 {
-	public interface siddhi1
+	public interface sid1
 	{
 		public void add();
 		public void subtract();
