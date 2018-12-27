@@ -1,7 +1,3 @@
-/*
- Name: Amogh Kalyanshetti
- Roll No: 3162522
- */
 
 #include<iostream>
 using namespace std;
