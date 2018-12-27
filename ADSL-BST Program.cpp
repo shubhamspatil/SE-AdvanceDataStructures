@@ -13,8 +13,7 @@ iv. Change a tree so that the roles of the left and right pointers are swapped a
 
 v. Search a value
 
-Author: Amogh Kalyanshetti
-Roll No: 3162522
+
  */
 #include<iostream>
 using namespace std;
