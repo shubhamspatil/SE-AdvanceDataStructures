@@ -3,8 +3,7 @@
  *Problem statement:
  *				Convert given binary tree into threaded binary tree.
  *				Analyze time and space complexity of the algorithm.
- *      Author: Amogh Kalyanshetti
- *      Roll No: 3162522
+ *    
  */
 #include <iostream>
 using namespace std;
